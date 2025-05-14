@@ -28,9 +28,10 @@ The following section will outline the steps required to reproduce the project, 
 2. `cd website`
 3. Add a .env file under `/website` with the line 'DB_PATH=db.sqlite'
 4. Download the database file as db.sqlite and add the file to `/api`
-5. `npm install`
-6. `npm run dev`
-7. Navigate to https://localhost:3000
+5. conda activate --> Python 2.10 (py10)
+6. `npm install`
+7. `npm run dev`
+8. Navigate to https://localhost:3000
 
 ### Colab notebooks
 
